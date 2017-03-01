@@ -1,0 +1,4 @@
+givenName,initials,sn,title,department,userAccountControl
+John,M,Martin,Sr. Analyst,Sales,512
+Sally,R,Jones,Analyst,Sales,512
+Bill,D,Williams,Sales Manager,Sales,512
